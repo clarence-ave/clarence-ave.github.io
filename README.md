@@ -1,43 +1,13 @@
-# Save Clarence Avenue Parking Spaces  
-
-This website is dedicated to informing residents of Clarence Avenue, Rochester, about the proposed parking restrictions and helping them submit objections to the council.  
-
-## Purpose of This Website  
-
-The Medway Council has proposed changes to parking regulations on Clarence Avenue, including the addition of double yellow lines at the dead-end section of our street and in front of house No. 17. These changes will:  
-- Reduce the already limited parking spaces on our street.  
-- Make parking more difficult for residents.  
-- Provide no real traffic or safety benefits, as Clarence Avenue is a dead-end with minimal traffic.  
-
-This website aims to:  
-1. Provide detailed information about the council's proposal.  
-2. Help residents submit objections before the deadline: **Friday, 6 December 2024**.  
-
----
-
 ## How to Submit an Objection  
 
-The council is accepting objections via email or post. Below is a template you can use to make the process easier. Feel free to modify it to reflect your personal concerns.  
+The council is accepting objections via email or post. Below is a template you can use to make the process easier. Feel free to modify it to reflect your personal concerns. All objections must be submitted by **Friday, 6 December 2024**.
 
 ### Email Address  
 Send your objection to: **TROconsult@medway.gov.uk**  
 
-### Postal Address  
-Alternatively, you can post your objection to:  
-**Parking Design Team  
-Medway Council  
-Gun Wharf, Dock Road  
-Chatham, Kent, ME4 4TR**  
-
----
-
 ## Objection Email Template  
 
-Here’s a template you can copy, edit, and send:  
-
----
-
-Subject: Objection to Proposed Parking Changes in Clarence Avenue  
+**Subject:** Objection to Proposed Parking Changes in Clarence Avenue  
 
 Dear Parking Design Team,  
 
@@ -67,13 +37,23 @@ Yours faithfully,
 
 ---
 
+This website is dedicated to informing residents of Clarence Avenue, Rochester, about the proposed parking restrictions and helping them submit objections to the council.  
+
+## Purpose of This Website  
+
+The Medway Council has proposed changes to parking regulations on Clarence Avenue, including the addition of double yellow lines at the dead-end section of our street and in front of house No. 17. These changes will:  
+- Reduce the already limited parking spaces on our street.  
+- Make parking more difficult for residents.  
+- Provide no real traffic or safety benefits, as Clarence Avenue is a dead-end with minimal traffic.  
+
+This website aims to:  
+1. Provide detailed information about the council's proposal.  
+2. Help residents submit objections before the deadline: **Friday, 6 December 2024**.  
+
 ## What You Can Do
 
 1. Submit your objection: Use the template above to send your objection by email or post.
 2. Spread the word: Let your neighbors know about the proposal and encourage them to object.
 3. Stay informed: Keep checking this website for updates about the proposal.
-
-## Deadline for Objections
-All objections must be submitted by Friday, 6 December 2024.
 
 Let’s work together to protect our parking spaces and ensure the council hears our concerns!
