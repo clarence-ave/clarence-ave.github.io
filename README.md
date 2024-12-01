@@ -1,4 +1,4 @@
-The council is accepting objections via email or post. Below is a template you can use to make the process easier. Feel free to modify it to reflect your personal concerns. All objections must be submitted by **Friday, 6 December 2024**.
+The council is accepting objections via email or post. Below is a template you can use to make the process easier. Feel free to copy&paste and modify it to reflect your personal concerns. All objections must be submitted by **Friday, 6 December 2024**.
 
 Send your objection to: **TROconsult@medway.gov.uk**
 
