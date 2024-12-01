@@ -1,8 +1,8 @@
 The council is accepting objections via email or post. Below is a template you can use to make the process easier. Feel free to copy&paste and modify it to reflect your personal concerns. All objections must be submitted by **Friday, 6 December 2024**.
 
-Send your objection to: **TROconsult@medway.gov.uk**
+**Copy the template below and send it as an email to TROconsult@medway.gov.uk**
 
-## Objection Email Template
+---
 
 **Subject:** Objection to Proposed Parking Changes in Clarence Avenue
 
@@ -12,7 +12,7 @@ I am writing to formally object to the proposed parking changes outlined in *The
 
 I reside at `[Your Address]`, Clarence Avenue. Parking is already a significant challenge for residents, and the proposed changes will unnecessarily reduce the limited parking spaces available to us.  
 
-### Grounds for Objection  
+**Grounds for Objection**
 
 1. **Sufficient Access to Garages**: 
    The garages at the northern end of the street are not used for car storage. Even if they were, there is already enough space for vehicles to access them without the need for double yellow lines.  
